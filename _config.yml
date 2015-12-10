@@ -11,8 +11,8 @@ email: gianelliroberto@gmail.com
 description: Questo Blog si occupa di valute virtuali.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: rgc69
-github_username:  rogicast
+twitter_username: rogicast
+github_username:  rgc69
 
 # Build settings
 markdown: kramdown

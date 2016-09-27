@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Fuzzycoin
+title: AiJambo
 email: gianelliroberto@gmail.com
-description: Questo Blog si occupa di valute virtuali.
+description: Questo Blog si occupa di Intelligenze artificiali.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: rogicast

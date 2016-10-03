@@ -8,7 +8,7 @@
 # Site settings
 title: AiJambo
 email: gianelliroberto@gmail.com
-description: Blog che si occupa di Intelligenze artificiali.
+description: Blog che si occupa di Intelligenze artificiali. E molto altro...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: rogicast

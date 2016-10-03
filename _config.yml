@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: AiJambo
+title: AiJamboo
 email: gianelliroberto@gmail.com
 description: Blog che si occupa di Intelligenze artificiali. E molto altro...
 baseurl: "" # the subpath of your site, e.g. /blog
